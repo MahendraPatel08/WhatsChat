@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929210307686",
+    "project_id": "flutter-whatschat-app",
+    "storage_bucket": "flutter-whatschat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929210307686:android:74641f49db6c0c8a5c09a7",
+        "android_client_info": {
+          "package_name": "com.example.whatschat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQkmpQQ_s7PkbLQ6rGqSvZfQq9sD9KyGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
